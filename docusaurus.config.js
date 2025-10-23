@@ -15,14 +15,14 @@ const config = {
   //staticDirectories: ['static'],
 
   // Set the production url of your site here
-  url: "https://pi-dsd.github.io",
+  url: "https://pei-dsd-2025.github.io",
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: "/microsite/",
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: "pi-dsd", // Usually your GitHub org/user name.
+  organizationName: "pei-dsd-2025", // Usually your GitHub org/user name.
   projectName: "microsite", // Usually your repo name.
   trailingSlash: false,
   onBrokenLinks: "throw",
