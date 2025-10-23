@@ -42,6 +42,7 @@ const config = {
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
         docs: {
+          path: "documentation_page",
           sidebarPath: "./sidebars.js",
         },
         blog: {
@@ -67,9 +68,6 @@ const config = {
         },
         items: [
           {
-            type: "docsVersionDropdown",
-          },
-          {
             type: "docSidebar",
             sidebarId: "tutorialSidebar",
             position: "left",
@@ -84,16 +82,6 @@ const config = {
           {
             href: "https://github.com/detiuaveiro/dsd",
             label: "GitHub",
-            position: "right",
-          },
-          {
-            href: "https://github.com/orgs/detiuaveiro/projects/25/views/1",
-            label: "Backlog",
-            position: "right",
-          },
-          {
-            href: "https://drive.google.com/drive/folders/1vwznbTZrtqVU5NMSli3AQfWFhG4GNvT2?usp=sharing",
-            label: "Drive",
             position: "right",
           },
         ],
