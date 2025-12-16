@@ -80,7 +80,7 @@ const config = {
             position: "right",
           },
           {
-            href: "https://github.com/detiuaveiro/dsd",
+            href: "https://github.com/detiuaveiro/dsd2025",
             label: "GitHub",
             position: "right",
           },
